@@ -37,4 +37,13 @@ supervision can induce, considering the subjective nature of sarcasm. The datase
 to strict quality control and a further verification by a human trained linguistics.
 
 Full details about the data collection steps, as well as the performance of state-of-the-art sarcasm 
-detection models of iSarcasm, is reported in the paper, with extra details in the supplement.
+detection models of iSarcasm, is reported in the paper, with extra details in the supplement. The paper will appear at ACL 2020, at which point the link will be posted here. For now, you can find a draft at https://arxiv.org/abs/1911.03123, which you may cite if you use the dataset in the meantime, i.e.
+
+@misc{oprea2019isarcasm,
+    title={iSarcasm: A Dataset of Intended Sarcasm},
+    author={Silviu Oprea and Walid Magdy},
+    year={2019},
+    eprint={1911.03123},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL}
+}
